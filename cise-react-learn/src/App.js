@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -15,9 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Agile is about Values and Principles
-         {/*Just making a change so it can be re pushed.*/}
+          Agile is about Values and Principles in it to win it go team
+          {/*Just making a change so it can be re pushed.*/}
+          
         </a>
+        <p>A minor change to show git proccess</p>
       </header>
     </div>
   );
